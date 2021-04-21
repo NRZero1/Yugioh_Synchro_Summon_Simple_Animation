@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Synchro_Summon_Animation.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="115"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="285"/>
+        <CursorPos X="38" Y="290"/>
+        <UsageCount Value="115"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="28" HistoryIndex="27">
+      <Position1>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="459" Column="105" TopLine="454"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="302" Column="6" TopLine="294"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="342" Column="6" TopLine="334"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="134" Column="27" TopLine="123"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="112" Column="49" TopLine="108"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="110" Column="40" TopLine="102"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="112" Column="82" TopLine="104"/>
+      </Position7>
+      <Position8>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="114" Column="22" TopLine="100"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="110" Column="14" TopLine="104"/>
+      </Position9>
+      <Position10>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="229" Column="40" TopLine="121"/>
+      </Position10>
+      <Position11>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="146" Column="25" TopLine="63"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="310" Column="27" TopLine="298"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="257" Column="21" TopLine="248"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="246" Column="67" TopLine="238"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="332" Column="25" TopLine="320"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="251" Column="19" TopLine="244"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="316" Column="28" TopLine="311"/>
+      </Position17>
+      <Position18>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="76" Column="24" TopLine="71"/>
+      </Position18>
+      <Position19>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="292" Column="26" TopLine="277"/>
+      </Position19>
+      <Position20>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="183" Column="4" TopLine="175"/>
+      </Position20>
+      <Position21>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="463" Column="4" TopLine="455"/>
+      </Position21>
+      <Position22>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="503" Column="4" TopLine="495"/>
+      </Position22>
+      <Position23>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="596" Column="4" TopLine="588"/>
+      </Position23>
+      <Position24>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="614" Column="4" TopLine="606"/>
+      </Position24>
+      <Position25>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="67" Column="5" TopLine="59"/>
+      </Position25>
+      <Position26>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="69" Column="39" TopLine="61"/>
+      </Position26>
+      <Position27>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="83" Column="3" TopLine="75"/>
+      </Position27>
+      <Position28>
+        <Filename Value="..\Tes_Animasi_2_FINAL\Tes Animasi 2\utama.pas"/>
+        <Caret Line="81" Column="44" TopLine="75"/>
+      </Position28>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

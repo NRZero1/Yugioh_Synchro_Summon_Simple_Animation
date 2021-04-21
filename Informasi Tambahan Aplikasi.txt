@@ -1,0 +1,37 @@
+Anggota Kelompok:
+- Daniel Ronaldo Pangestu (32180091)
+- William Cahya Mulyadi (32180024)
+
+Project aplikasi ini bernama Yu-Gi-Oh Synchro Summon Animation dengan Lazarus
+
+Program ini menggunakan 3 buah animasi, yaitu:
+- rotasi
+- translasi
+- scaling
+
+Rotasi dan translasi digunakan pada lingkaran hijau muda yang disebut tuner
+Translasi digunakan pada bola biru yang disebut non-tuner
+Rotasi dan Scaling digunakan pada tabung berwarna biru
+
+Dikarenakan lingkaran pada program ini menggunakan sudut pandang perspektif
+maka kemungkinan akan sedikit sulit melihat rotasi yang sedang terjadi.
+
+Untuk memudahkan melihat rotasi pada lingkaran, dapat mengikuti petunjuk yang
+telah disediakan pada file ini atau petunjuk yang ada pada bagian akhir laporan
+(dengan detail gambar juga)
+
+Petunjuk pengeditan program:
+1. Agar dapat melihat lebih jelas rotasi yang terjadi pada lingkaran
+Anda dapat menambah nilai variable i (di dalam looping repeat until) 
+pada line 495 dan line 535 (nilai semula i adalah 6, Anda dapat menambahkannya 
+menjadi 10 atau lebih besar lagi tetapi disarankan jangan terlalu besar 
+agar tidak merusak citra animasi originalnya)
+
+2. Jika merasa gambar yang muncul setelah selesai animasi mengganggu, Anda
+dapat mengubah dari line 291 sampai 382 menjadi komentar
+
+3. Jika Anda merasa rotasi pada tabung sedikit sulit untuk dilihat, Anda
+dapat menambahkan nilai variable i (di dalam looping repeat until)
+pada line 561, Anda dapat mengubahnya menjadi 10 atau lebih besar lagi 
+(sekali lagi disarankan jangan mengubahnya terlalu besar agar
+tidak merusak citra animasi originalnya)
